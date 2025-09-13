@@ -1,0 +1,9 @@
+# Minimum versions tested for the notebook
+numpy>=1.24
+pandas>=2.0
+networkx>=3.2
+matplotlib>=3.8
+
+# For running the notebook
+jupyter>=1.0
+ipykernel>=6.0
